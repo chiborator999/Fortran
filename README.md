@@ -1,5 +1,5 @@
 # Fortran
-Simple calculator app with:
+- Simple calculator app with:
   - add 
   - subtract
   - multiply
